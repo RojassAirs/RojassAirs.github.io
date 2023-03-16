@@ -1,0 +1,142 @@
+body {
+    margin: 0;
+}
+
+
+.titulo {
+    float: right;
+    padding: 0 10px;
+    background-color: #04AA6D;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar {
+    list-style-type: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #282A35;
+    font-family: Verdana, sans-serif;
+    position: fixed;
+}
+
+.linavbar {
+    padding: 0 10px;
+    display: inline-block;
+    color: white;
+}
+
+a {
+    padding: 0 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 16px 10px ;
+}
+
+.linavbar:hover {
+    background-color: #04AA6D;
+}
+
+#IMG {
+    height: 500px;
+    border-style: solid;
+    border-color: #282A35;
+}
+.imgppal {
+    width: 100%;
+    height: 500px;
+}
+
+#IP {
+    background-color: rgb(229, 227, 232);
+    width: 100%;
+    height: 500px;
+    border-style: solid;
+    border-color: #282A35;
+}
+#cuadro1 {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+#cuadro2 {
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+}
+
+#EST {
+    background-color: rgb(252, 155, 95);
+    width: 100%;
+    height: 500px;
+    border-style: solid;
+    border-color: #282A35;
+}
+#cuadro4 {
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+#cuadro3 {
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+}
+
+#EXP {
+    background-color: #87dba0;
+    width: 100%;
+    height: 500px;
+    border-style: solid;
+    border-color: #282A35;
+}
+#cuadro5 {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+#cuadro6 {
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+}
+
+.lista1 {
+    list-style-type: none;
+    font-size: 25px;
+    font-family: Verdana, sans-serif;
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: #282A35;
+    margin-top: 0;
+}
+
+.margen {
+    padding: 10px 0;
+}
+
+#OPC {
+    background-color: #eed688;
+    height: 300px;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+}
+
+#color {
+    color: #eed688;
+}
+
+button {
+    background-color: #282A35;
+    color: white;
+}
